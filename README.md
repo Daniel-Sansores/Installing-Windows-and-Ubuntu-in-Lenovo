@@ -9,3 +9,7 @@ I acquired a Lenovo Legion Y730 17" a few months ago. Everything was working per
 *If you wish to install in UEFI mode and don't care about keeping the ability to boot one of the existing systems, you have the option to force that here. If you wish to keep the option to boot an existing operating system, you should choose NOT to force UEFI installation here.*
 
 ![http://i.imgur.com/IGeWHf3.jpg]
+
+Even when I installed at the end of the installation it froze in "restarting"
+
+So, this repository is what it worked for me and a classmate. (Lenovo Legion and ThiknPad)
